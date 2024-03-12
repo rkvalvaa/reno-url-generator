@@ -1,0 +1,18 @@
+{
+    "tenants": {
+      "111": {
+        "hostname": "krogsveen.no",
+        "urlScheme": "/{propertyType}/{caseId}"
+      },
+      "121": {
+        "hostname": "/bolig.eiendomsmeglervest.no",
+        "urlScheme": "/{propertyType}/{caseId}"
+      }
+    },
+    "propertyTypes": {
+      "25": "kjope/boliger-til-salgs",
+      "26": "utleie/boliger-til-leie",
+      "27": "Eiendom"
+    }
+  }
+  
